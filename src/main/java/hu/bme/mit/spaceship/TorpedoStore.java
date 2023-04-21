@@ -14,7 +14,11 @@ public class TorpedoStore {
 //NOSONAR
 
   private int torpedoCount = 0;
+<<<<<<< HEAD
   //abc
+=======
+  //ddf
+>>>>>>> branch-B
 
   public TorpedoStore(int numberOfTorpedos){
     this.torpedoCount = numberOfTorpedos;
